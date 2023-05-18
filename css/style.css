@@ -1,0 +1,82 @@
+*{
+    box-sizing: border-box;
+}
+ */
+#btn1{
+    margin-left: 80px;
+    float: left;
+}
+#content , #Prices{
+    padding-left: 10px;
+}
+#Prices{
+    color: rgb(43, 41, 41);
+}
+#content{
+    color: rgb(58, 56, 56);
+}
+.card{
+    border: 1px black solid;
+    float: left;
+    border-radius: 10px;
+    width: 180px;
+    height: 275px;
+    margin: 20px;
+    box-shadow: 0 10px 30px 15px rgb(0, 0, 0);
+}
+
+.btn{
+   margin-left: 20px;
+   padding-bottom: px;
+}
+.card-title{
+    margin-left: 20px;
+}
+.img1{
+    margin: 4px 0 0 20px;
+    width: 140px;
+}
+.img3{
+    margin-top: 4px;
+    width: 140px;
+    margin-left: 10px;
+}
+.img5{
+    width: 140px;
+    margin: 4px 20px;
+    margin-bottom: 15px;
+}
+.card5{
+  margin-top: -1px;
+}
+.h22 , .h23{
+    margin-top: 20px;
+}
+.img6{
+    width: 150px;
+    margin-left: 10px;
+    padding-top: 3px;
+}
+.img7{
+    margin-top: -20px;
+    height: 220px;
+}
+.img8{
+    width: 150px;
+    margin-left: 15px;
+    margin-top: 5px;
+}
+.h32 , .h33{
+    margin-top: 17px;
+}
+.img10{
+    margin-left: 15px;
+    margin-top: 5px;
+}
+#Prices{
+    margin: -60px 0 0 800px;
+    font-size: 20px;
+}
+.btn{
+    margin-left: 570px;
+}
